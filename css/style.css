@@ -75,6 +75,7 @@
 
 .card__inner-title:hover {
   color: #F4D04E;
+  cursor: pointer;
 }
 
 .card__inner-text {
